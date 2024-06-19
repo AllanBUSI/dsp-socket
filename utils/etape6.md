@@ -1,0 +1,1 @@
+Créez une branche feat/pseudo, développez un formulaire HTML dans un modal pour saisir un pseudo avec validation pour éviter les doublons et interdire le pseudo "Allan", puis faites une pull request et mergez dans dev sans supprimer la branche pour éviter de perdre 4 points.

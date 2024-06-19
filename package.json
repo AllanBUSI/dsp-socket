@@ -1,0 +1,20 @@
+{
+  "name": "socket-exercice",
+  "version": "1.0.0",
+  "description": "Créer un repo appeller dsp-dev-socket en public sinon 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@socket.io/cluster-adapter": "^0.2.2",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
